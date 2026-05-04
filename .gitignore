@@ -1,9 +1,6 @@
 # Environment / secrets
 .env
 
-# Output artefacts
-output/
-
 # Python
 __pycache__/
 *.py[cod]
