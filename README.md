@@ -44,7 +44,7 @@ Get a free Alpha Vantage API key at [alphavantage.co](https://www.alphavantage.c
 
 ## Findings: AAPL (90-day window, Feb–May 2025)
 
-![AAPL Dashboard](output/AAPL_sentiment_dashboard.png)
+![AAPL Dashboard](https://raw.githubusercontent.com/CJ11231/Sentiment-Signal-Extractor/main/output/AAPL_sentiment_dashboard.png)
 
 ### Key statistics
 | Metric | Value |
@@ -71,7 +71,7 @@ Get a free Alpha Vantage API key at [alphavantage.co](https://www.alphavantage.c
 
 ## Findings: TSLA (90-day window, Feb–May 2025)
 
-![TSLA Dashboard](output/TSLA_sentiment_dashboard.png)
+![TSLA Dashboard](https://raw.githubusercontent.com/CJ11231/Sentiment-Signal-Extractor/main/output/TSLA_sentiment_dashboard.png)
 
 ### Key statistics
 | Metric | Value |
