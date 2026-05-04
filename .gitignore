@@ -1,0 +1,20 @@
+# Environment / secrets
+.env
+
+# Output artefacts
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# HuggingFace model cache
+.cache/
+
+# macOS
+.DS_Store
